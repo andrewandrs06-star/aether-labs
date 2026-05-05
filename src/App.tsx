@@ -4,6 +4,8 @@ import { useEffect, useRef, memo, useState } from 'react'
 import Hls from 'hls.js'
 import logo from '../image.png'
 import macPreview from '../image copy.png'
+import instagramIcon from './assets/instagram.png'
+import whatsappIcon from './assets/whatsapp.png'
 
 const VideoPlayer = () => {
   const videoRef = useRef<HTMLVideoElement>(null)
@@ -603,7 +605,7 @@ function App() {
               </div>
               <p className="text-gray-300 mb-6">{t('downloads.macDesc')}</p>
               <a
-                href="/aether-labs.dmg"
+                href="downloads/Aether-Labs.dmg"
                 download
                 className="inline-block bg-gray-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-700 transition"
               >
@@ -646,7 +648,7 @@ function App() {
               rel="noopener noreferrer"
               className="flex flex-col items-center gap-4 bg-white/10 backdrop-blur-xl border border-white/20 shadow-xl shadow-black/20 rounded-2xl p-12 hover:bg-white/15 hover:border-white/30 transition group w-full md:w-auto"
             >
-              <img src="/insta.png" alt="Instagram" className="w-16 h-16 group-hover:scale-110 transition" />
+              <img src={instagramIcon} alt="Instagram" className="w-16 h-16 group-hover:scale-110 transition" />
               <div>
                 <p className="text-xl font-semibold text-white">{t('contact.instagramHandle')}</p>
                 <p className="text-sm text-gray-400 mt-1">{t('contact.instagram')}</p>
@@ -658,7 +660,7 @@ function App() {
               rel="noopener noreferrer"
               className="flex flex-col items-center gap-4 bg-white/10 backdrop-blur-xl border border-white/20 shadow-xl shadow-black/20 rounded-2xl p-12 hover:bg-white/15 hover:border-white/30 transition group w-full md:w-auto"
             >
-              <img src="/whasa.png" alt="WhatsApp" className="w-16 h-16 group-hover:scale-110 transition" />
+              <img src={whatsappIcon} alt="WhatsApp" className="w-16 h-16 group-hover:scale-110 transition" />
               <div>
                 <p className="text-xl font-semibold text-white">WhatsApp</p>
                 <p className="text-sm text-gray-400 mt-1">{t('contact.whatsapp')}</p>
