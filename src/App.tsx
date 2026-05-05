@@ -1,3 +1,4 @@
+// Force rebuild for GitHub Pages
 import { useTranslation } from 'react-i18next'
 import { motion } from 'framer-motion'
 import { useEffect, useRef, memo, useState } from 'react'
