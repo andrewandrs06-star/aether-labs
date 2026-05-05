@@ -1,0 +1,212 @@
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "download": "Download",
+    "faq": "FAQ",
+    "changelog": "Changelog",
+    "docs": "Docs",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Respondus Lockdown Browser\nwith AI Vision",
+    "description": "Aether Labs is a modified version of Respondus Lockdown Browser originally designed for computerized testing, enhanced with integrated visual AI capabilities for intelligent screen analysis.",
+    "getStarted": "Download for Windows",
+    "getConnected": "Download for Mac",
+    "version": "v1.1.0"
+  },
+  "reviews": {
+    "label": "Trusted Reviews",
+    "title": "Trusted By Real Students",
+    "description": "See why thousands of students rely on Aether Labs to stay secure, fast, and stress-free during exams.",
+    "logos": ["UT Austin", "Texas A&M", "Rutgers", "Harvard", "ASU", "Yale"],
+    "cards": [
+      {
+        "name": "w_rz01",
+        "school": "Tecnológico de Monterrey",
+        "date": "Mar 24, 2026",
+        "text": "Used this extension to get a 100 on all my CH302 exams. Professor complained about students cheating (switching tabs) but I had nothing to worry about."
+      },
+      {
+        "name": "cryned",
+        "school": "UT Austin",
+        "date": "Feb 12, 2026",
+        "text": "Got perfect scores on every test after I started using this. Barely opened my notes the whole semester."
+      },
+      {
+        "name": "StarSafety",
+        "school": "Universidad Anahuac",
+        "date": "Apr 28, 2026",
+        "text": "Used it during an online exam and nothing got flagged. Kinda wild how smooth it is."
+      }
+    ]
+  },
+  "badges": {
+    "ai": "Integrated with AI",
+    "cloud": "Cloud Native",
+    "enterprise": "Enterprise Ready"
+  },
+  "downloads": {
+    "title": "Downloads",
+    "windows": "Download for Windows",
+    "windowsDesc": "Download the Windows version and start using Aether Labs now.",
+    "mac": "Download for Mac",
+    "macDesc": "Get Aether Labs for Mac and access all premium features."
+  },
+  "about": {
+    "title": "About Aether Labs",
+    "description": "Aether Labs combines the security of Respondus Lockdown Browser with advanced visual AI capabilities. Originally built for computerized exams, it now includes screen capture and analysis using GPT-4V and Claude APIs.",
+    "features": {
+      "ai": "Integrated AI",
+      "aiDesc": "Built-in GPT for intelligent assistance",
+      "analytics": "Real-Time Analytics",
+      "analyticsDesc": "Visualize data and metrics instantly",
+      "sync": "Cross-Platform Sync",
+      "syncDesc": "Access from Windows, Mac, and Web"
+    }
+  },
+  "featureSection": {
+    "label": "Our Service",
+    "title": "Your secure exam, your AI app",
+    "description": "Manage and prepare assessments within a locked environment compatible with LockDown Browser.",
+    "cards": [
+      {
+        "title": "Assisted exam mode",
+        "description": "Activate intelligent study and review workflows designed for the app, with AI that supports your process without interfering with the exam browser.",
+        "icon": "M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"
+      },
+      {
+        "title": "Compatible assistant",
+        "description": "Create summaries, strategies and review prompts inside the app, optimized to work alongside protected Respondus sessions.",
+        "icon": "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm1 14.93V18h-2v-1.07A7.001 7.001 0 0 1 5.07 13H6v-2H5.07A7.001 7.001 0 0 1 11 5.07V4h2v1.07A7.001 7.001 0 0 1 18.93 11H18v2h.93A7.001 7.001 0 0 1 13 16.93z"
+      },
+      {
+        "title": "Total control",
+        "description": "Monitor resources, access and performance in closed sessions so the exam runs fast, secure and without surprises.",
+        "icon": "M4.5 4.5h15v15h-15z"
+      }
+    ]
+  },
+  "common": {
+    "learnMore": "Learn More"
+  },
+  "smartExam": {
+    "label": "Your exam space, now intelligent",
+    "title": "Secure AI inside LockDown Browser",
+    "description": "Explore your workspace in a wide, fast layout. Control assistants, review multimedia content and automate AI tasks inside Respondus Lockdown Browser.",
+    "cards": [
+      {
+        "title": "Intelligent automation",
+        "description": "Manage tasks, review content and coordinate AI actions without leaving the secure exam environment or being detected."
+      },
+      {
+        "title": "Trusted interface",
+        "description": "A clear, high-contrast design that lets you focus on exams with security and efficiency."
+      }
+    ],
+    "imageLabels": ["Innovation", "Technology", "Experience"]
+  },
+  "sessionPanel": {
+    "title": "Session information",
+    "startedAt": "Started at",
+    "startedAtValue": "Thu Apr 23 2026 15:28:55 GMT-0600 (Central Standard Time)",
+    "attempt": "Attempt",
+    "attemptValue": "1",
+    "actionsTitle": "Action log",
+    "actions": [
+      "The session has started",
+      "Question #1 has been viewed (and possibly read)",
+      "Question answered: #1",
+      "The following questions have been answered: #2 #3",
+      "Question #2 has been viewed (and possibly read)",
+      "Question answered: #4"
+    ]
+  },
+  "howItWorks": {
+    "label": "How Aether Labs works",
+    "title": "How Aether Labs works",
+    "description": "Discover how Aether Labs integrates artificial intelligence and security to enhance exam experiences inside Respondus Lockdown Browser.",
+    "cards": [
+      {
+        "title": "Central platform",
+        "description": "Aether Labs combines intelligent assistants, question analysis and response generation in a secure hub. It enables prompt and output management without leaving the exam browser.",
+        "icon": "M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"
+      },
+      {
+        "title": "Media and performance",
+        "description": "Supports visual and text content with optimized resource usage in closed environments. Designed to work in exam sessions where performance and stability are critical.",
+        "icon": "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm1 14.93V18h-2v-1.07A7.001 7.001 0 0 1 5.07 13H6v-2H5.07A7.001 7.001 0 0 1 11 5.07V4h2v1.07A7.001 7.001 0 0 1 18.93 11H18v2h.93A7.001 7.001 0 0 1 13 16.93z"
+      },
+      {
+        "title": "Security and control",
+        "description": "Protects privacy and maintains full control of data flow inside Respondus Lockdown Browser. Ideal for supervised exams, offline work and strict environments.",
+        "icon": "M4.5 4.5h15v15h-15z"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Choose the plan that fits your exam security and AI support needs.",
+    "perMonth": "per month",
+    "buy": "Buy",
+    "contactForBuy": "Contact for buy",
+    "extension": {
+      "title": "Aether Labs Extension",
+      "price": "$200 MXN",
+      "description": "Access to Aether Labs Extension",
+      "features": ["Aether Labs Extension", "Essential tool for secure browsing", "Minor updates included", "Basic email support"]
+    },
+    "application": {
+      "title": "Aether Labs + Application",
+      "price": "$249 MXN",
+      "description": "Complete Extension + Application",
+      "features": ["Complete Aether Labs Extension", "Aether Labs Application for Respondus Lockdown Browser", "Full functionality in protected exams", "Regular updates", "Priority support"]
+    },
+    "pro": {
+      "title": "Aether Labs Pro Bundle",
+      "price": "$399 MXN",
+      "description": "Complete professional suite",
+      "features": ["Extension + Complete Application", "24/7 Priority support", "License for 2 devices", "Access to all updates and new features", "Technical consultation included", "Valid for educational institutions"]
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Quick answers to common Aether Labs questions. If your question is not listed, contact us.",
+    "questions": [
+      "What is Aether Labs and how does it work?",
+      "How do I install the app on Windows or macOS?",
+      "Do I need an account to use Aether Labs?",
+      "Is the app safe for exam environments?",
+      "How can I get support or ask a question?"
+    ],
+    "answers": [
+      "Aether Labs is an AI application designed to assist you in preparing and taking exams within secure environments like Respondus LockDown Browser. It works as an integrated assistant that generates summaries, study strategies, and provides support during closed sessions, without interfering with exam security.",
+      "Download the installer from our website, run the file according to your operating system, and follow the installation steps. The app will automatically configure itself to be compatible with LockDown Browser and other protected exam browsers.",
+      "Yes, you need to create an account with your email to activate all features. This allows synchronizing your settings, session history, and accessing the personalized AI assistant.",
+      "Yes. Aether Labs is optimized to work in isolated mode within closed sessions, respecting LockDown Browser restrictions. Your activity and data are protected with end-to-end encryption.",
+      "Contact us through our support form in the app or send a message on WhatsApp to +81 2232 6336. Our team responds in less than 24 hours."
+    ]
+  },
+  "changelog": {
+    "title": "What's New",
+    "features": [
+      "AI integration for Respondus Lockdown Browser",
+      "Real-time response suggestions",
+      "Privacy-first architecture",
+      "Multi-device synchronization",
+      "Advanced security features",
+      "Mobile app support"
+    ]
+  },
+  "footer": {
+    "instagram": "Creator & Developer",
+    "whatsapp": "Support"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Reach out to us via WhatsApp or Instagram for support and the latest updates on Aether Labs.",
+    "instagram": "Follow on Instagram",
+    "whatsapp": "Chat on WhatsApp",
+    "instagramHandle": "@ryuu_tatsu12"
+  }
+}
