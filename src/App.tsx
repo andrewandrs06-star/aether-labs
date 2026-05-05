@@ -608,7 +608,11 @@ function App() {
                 href="https://github.com/andrewandrs06-star/aether-labs/releases/tag/v1.0"
                 className="inline-block bg-gray-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-700 transition"
                 target="_blank"
-                rel="noreferrer noopener"
+                rel="noopener noreferrer"
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.open('https://github.com/andrewandrs06-star/aether-labs/releases/tag/v1.0', '_blank');
+                }}
               >
                 {t('downloads.mac')}
               </a>
