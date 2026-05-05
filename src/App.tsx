@@ -605,9 +605,10 @@ function App() {
               </div>
               <p className="text-gray-300 mb-6">{t('downloads.macDesc')}</p>
               <a
-                href="downloads/Aether-Labs.dmg"
-                download
+                href="https://github.com/andrewandrs06-star/aether-labs/releases/download/v1.0/Aether-Labs.dmg"
                 className="inline-block bg-gray-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-700 transition"
+                target="_blank"
+                rel="noreferrer noopener"
               >
                 {t('downloads.mac')}
               </a>
