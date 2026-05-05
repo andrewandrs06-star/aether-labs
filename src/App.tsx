@@ -604,18 +604,12 @@ function App() {
                 <h3 className="text-2xl font-bold">macOS</h3>
               </div>
               <p className="text-gray-300 mb-6">{t('downloads.macDesc')}</p>
-              <a
-                href="https://github.com/andrewandrs06-star/aether-labs/releases/tag/v1.0"
-                className="inline-block bg-gray-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-700 transition"
-                target="_blank"
-                rel="noopener noreferrer"
-                onClick={(e) => {
-                  e.preventDefault();
-                  window.open('https://github.com/andrewandrs06-star/aether-labs/releases/tag/v1.0', '_blank');
-                }}
+              <button
+                onClick={() => window.open('https://github.com/andrewandrs06-star/aether-labs/releases/tag/v1.0', '_blank')}
+                className="inline-block bg-gray-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-700 transition cursor-pointer"
               >
                 {t('downloads.mac')}
-              </a>
+              </button>
             </motion.div>
           </div>
         </div>
